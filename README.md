@@ -2,10 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx.page/
-    https://main--my-website--adobeyuta.hlx.page/
-- Live: https://main--{repo}--{owner}.hlx.live/
-    https://main--my-website--adobeyuta.hlx.live/
+- Preview: https://main--my-website--adobeyuta.hlx.page/
+- Live: https://main--my-website--adobeyuta.hlx.live/
 
 ## Installation
 
